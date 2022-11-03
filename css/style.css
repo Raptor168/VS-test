@@ -33,6 +33,10 @@ body {
   background-color: #fff;
 }
 
+img {
+  width: 100%;
+}
+
 section:nth-child(even) {
   background-color: #fbfbfb;
 }/*# sourceMappingURL=style.css.map */
